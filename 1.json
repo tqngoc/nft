@@ -1,0 +1,16 @@
+{
+    "name": "Cat",
+    "description": "quiet cat cement feline",
+    "image_url": "https://github.com/tqngoc/nft/blob/main/cat.jpg",
+    "attributes": [
+        {
+          "trait_type": "class", 
+          "value": "genesis"
+        }, 
+        {
+            "display_type": "date", 
+            "trait_type": "birthday", 
+            "value": 1624955102
+        }        
+      ]
+}
